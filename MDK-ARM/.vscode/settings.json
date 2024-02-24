@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "drv_soft_i2c.h": "c",
+        "nrf24l01.h": "c",
+        "bsp_i2c.h": "c"
+    }
+}
